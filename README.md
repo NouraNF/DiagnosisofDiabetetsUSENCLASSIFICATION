@@ -49,4 +49,4 @@ measure of a model's performance that balances between precision and recall.
 It is particularly useful when there is an imbalance in the class distribution.
 
 experiment results:
-[!screenshot](ExpResult.png)
+![screenshot](ExpResult.png)
