@@ -47,3 +47,6 @@ evaluating classification models.
 o F1-score: is the harmonic mean of precision and recall, and provides a single 
 measure of a model's performance that balances between precision and recall. 
 It is particularly useful when there is an imbalance in the class distribution.
+
+experiment results:
+[!screenshot]()
